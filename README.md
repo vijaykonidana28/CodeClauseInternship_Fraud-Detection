@@ -39,7 +39,7 @@ This project demonstrates how to detect anomalies (fraudulent transactions) in a
 ## 📂 Project Structure
 
 ```
-credit-card-fraud-detection/
+CodeClauseInternship_Fraud-Detection/
 │
 ├── creditcard.csv                # Dataset file (not included in repo due to size)
 ├── fraud_detection.ipynb         # Google Colab Notebook
@@ -52,7 +52,7 @@ credit-card-fraud-detection/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/vijaykonidana28/code-clause_Fraud-detection.git
+   git clone https://github.com/vijaykonidana28/CodeClauseInternship_Fraud-Detection.git
    cd credit-card-fraud-detection
    ```
 

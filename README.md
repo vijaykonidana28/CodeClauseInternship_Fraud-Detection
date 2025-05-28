@@ -98,4 +98,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-- [Vijay kumar Konidanan](https://github.com/vijaykonidana28)
+- [Vijay kumar Konidana](https://github.com/vijaykonidana28)
